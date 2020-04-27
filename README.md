@@ -1,2 +1,4 @@
 # github-example
-This repository is for coursera (applied data science capstone) assignment
+This repository is for coursera course
+Applied Data Science Capstone
+week 3 assignment
